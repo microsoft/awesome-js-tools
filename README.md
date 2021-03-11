@@ -28,3 +28,9 @@
 ## Linting
 
 * [Boll](https://microsoft.github.io/boll/) - repository wide linter, enforces standards across all packages inside a monorepo
+
+## Libraries
+
+* [workspace-tools](https://npmjs.org/package/workspace-tools) - A collection of tools that are useful in a git-controlled monorepo
+* [p-graph](https://www.npmjs.com/package/p-graph) - Run a promise graph with concurrency control.
+* [@microsoft/task-scheduler](https://www.npmjs.com/package/@microsoft/task-scheduler) - Run a sequence of steps across all the packages of a monorepo
