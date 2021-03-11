@@ -1,5 +1,10 @@
 # Awesome List of JS Tools from Microsoft
 
+## Language & language tools
+
+* [Typescript](https://typescriptlang.org) - Typed JavaScript at any scale
+* [API Extractor](https://api-extractor.com/) - Enforce API surface for libraries, create `d.ts` rollups, graduate unstable APIs, creates nicely formatted API documentation, and more 
+
 ## Package Managers
 
 * [Midgard Yarn](https://github.com/VincentBailly/yarn) - yarn v1, but faster for Azure DevOps feeds
@@ -20,6 +25,10 @@
 * [Lage](https://microsoft.github.io/lage/) - Run npm scripts in topological order incrementally with cloud cache (supports incremental builds, scopes, cloud cache, pipelining)
 * [BuildXL](https://github.com/Microsoft/BuildXL) ([npm](https://www.npmjs.com/package/@microsoft/buildxl)) - distributed build runner (works with rush or lage repos) 
 
+## End-to-end Testing
+
+* (Playwright)[https://playwright.dev/] - enables reliable end-to-end testing for modern web apps (works on all modern browsers)
+
 ## Package Publishing
 
 * [Rush](https://rushjs.io) - all-in-one styled monorepo manager (requires repo managed by Rush)
@@ -34,3 +43,4 @@
 * [workspace-tools](https://npmjs.org/package/workspace-tools) - A collection of tools that are useful in a git-controlled monorepo
 * [p-graph](https://www.npmjs.com/package/p-graph) - Run a promise graph with concurrency control.
 * [@microsoft/task-scheduler](https://www.npmjs.com/package/@microsoft/task-scheduler) - Run a sequence of steps across all the packages of a monorepo
+* [Rush](https://rushstack.io/) - contains many useful libraries like command line parsing, incremental build engine using git hashes, useful webpack plugins etc.
