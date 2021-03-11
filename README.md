@@ -1,5 +1,7 @@
 # Awesome List of JS Tools from Microsoft
 
+A list of amazing and awesome open sourced and free tools that powers a good portion of Microsoft products that are rely on JavaScript.
+
 ## Language & language tools
 
 * [Typescript](https://typescriptlang.org) - Typed JavaScript at any scale
@@ -27,7 +29,7 @@
 
 ## End-to-end Testing
 
-* (Playwright)[https://playwright.dev/] - enables reliable end-to-end testing for modern web apps (works on all modern browsers)
+* [Playwright](https://playwright.dev/) - enables reliable end-to-end testing for modern web apps (works on all modern browsers)
 
 ## Package Publishing
 
