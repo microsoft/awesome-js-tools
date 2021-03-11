@@ -18,6 +18,7 @@
 
 * [Rush](https://rushjs.io) - all-in-one styled monorepo manager (supports incremental builds, scopes)
 * [Lage](https://microsoft.github.io/lage/) - Run npm scripts in topological order incrementally with cloud cache (supports incremental builds, scopes, cloud cache, pipelining)
+* [BuildXL](https://github.com/Microsoft/BuildXL) ([npm](https://www.npmjs.com/package/@microsoft/buildxl)) - distributed build runner (works with rush or lage repos) 
 
 ## Package Publishing
 
