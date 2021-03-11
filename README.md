@@ -30,6 +30,7 @@ A list of amazing and awesome open sourced and free tools that powers a good por
 ## End-to-end Testing
 
 * [Playwright](https://playwright.dev/) - enables reliable end-to-end testing for modern web apps (works on all modern browsers)
+* [Flamegrill](https://microsoft.github.io/flamegrill) - scenario level test automation that generates a V8-level sample-based flamegraphs
 
 ## Package Publishing
 
