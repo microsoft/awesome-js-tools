@@ -47,3 +47,8 @@ A list of amazing and awesome open sourced and free tools that powers a good por
 * [p-graph](https://www.npmjs.com/package/p-graph) - Run a promise graph with concurrency control.
 * [@microsoft/task-scheduler](https://www.npmjs.com/package/@microsoft/task-scheduler) - Run a sequence of steps across all the packages of a monorepo
 * [Rush](https://rushstack.io/) - contains many useful libraries like command line parsing, incremental build engine using git hashes, useful webpack plugins etc.
+
+## Cross platform development
+
+* [React Native Windows](https://github.com/microsoft/react-native-windows) - cross platform JS development with React Native (Windows)
+* [React Native MacOS](https://github.com/microsoft/react-native-macos) - cross platform JS development with React Native (MacOS)
