@@ -2,9 +2,9 @@
 
 A list of amazing and awesome open sourced and free tools that powers a good portion of Microsoft products that are rely on JavaScript.
 
-## Language & language tools
+## Language & Language Tools
 
-* [Typescript](https://typescriptlang.org) - Typed JavaScript at any scale
+* [TypeScript](https://typescriptlang.org) - Typed JavaScript at any scale
 * [API Extractor](https://api-extractor.com/) - Enforce API surface for libraries, create `d.ts` rollups, graduate unstable APIs, creates nicely formatted API documentation, and more 
 
 ## Package Managers
@@ -27,7 +27,7 @@ A list of amazing and awesome open sourced and free tools that powers a good por
 * [Lage](https://microsoft.github.io/lage/) - Run npm scripts in topological order incrementally with cloud cache (supports incremental builds, scopes, cloud cache, pipelining)
 * [BuildXL](https://github.com/Microsoft/BuildXL) ([npm](https://www.npmjs.com/package/@microsoft/buildxl)) - distributed build runner (works with rush or lage repos) 
 
-## End-to-end Testing
+## End-to-End Testing
 
 * [Playwright](https://playwright.dev/) - enables reliable end-to-end testing for modern web apps (works on all modern browsers)
 * [Flamegrill](https://microsoft.github.io/flamegrill) - scenario level test automation that generates a V8-level sample-based flamegraphs
@@ -48,7 +48,7 @@ A list of amazing and awesome open sourced and free tools that powers a good por
 * [@microsoft/task-scheduler](https://www.npmjs.com/package/@microsoft/task-scheduler) - Run a sequence of steps across all the packages of a monorepo
 * [Rush](https://rushstack.io/) - contains many useful libraries like command line parsing, incremental build engine using git hashes, useful webpack plugins etc.
 
-## Cross platform development
+## Cross Platform Development
 
 * [React Native Windows](https://github.com/microsoft/react-native-windows) - cross platform JS development with React Native (Windows)
 * [React Native MacOS](https://github.com/microsoft/react-native-macos) - cross platform JS development with React Native (MacOS)
