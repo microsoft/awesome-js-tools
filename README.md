@@ -1,6 +1,6 @@
 # Awesome List of JS Tools from Microsoft
 
-A list of amazing and awesome open sourced and free tools that powers a good portion of Microsoft products that are rely on JavaScript.
+A list of amazing and awesome open sourced and free tools that power a good portion of Microsoft products that rely on JavaScript.
 
 ## Language & Language Tools
 
